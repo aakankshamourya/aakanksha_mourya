@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Speech to speech clone model in data science](https://github.com/aakankshamourya/SH1007.py-Smart-India-Hackathon-ML-module)
 
-- Product **Django, Flask, FastAPI, Natural Language Processing**
+- Product **Django, Flask, FastAPI, Natural Language Processing,AWS**
 
 - 👯 I’m looking to collaborate on **Netflix Like Product**
 
