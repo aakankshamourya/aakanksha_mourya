@@ -1,4 +1,4 @@
-# Data-Science-Project
+
 <h1 align="center">Hi 👋, I'm Aakanksha Mourya</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
